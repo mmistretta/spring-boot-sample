@@ -3,7 +3,7 @@
 To use this project on openshift first login to ocp using 
 `oc login <api url>` or the odo command
 
-Then create or select your project usinh
+Then create or select your project using
 `oc new-project <your-project-name>`
 
 Then go into the directory you cloned into and run the following command
